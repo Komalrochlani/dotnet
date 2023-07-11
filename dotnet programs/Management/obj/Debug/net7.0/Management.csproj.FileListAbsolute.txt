@@ -1,0 +1,15 @@
+D:\Programs\dotnet programs\Management\bin\Debug\net7.0\Management.exe
+D:\Programs\dotnet programs\Management\bin\Debug\net7.0\Management.deps.json
+D:\Programs\dotnet programs\Management\bin\Debug\net7.0\Management.runtimeconfig.json
+D:\Programs\dotnet programs\Management\bin\Debug\net7.0\Management.dll
+D:\Programs\dotnet programs\Management\bin\Debug\net7.0\Management.pdb
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.csproj.AssemblyReference.cache
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.AssemblyInfoInputs.cache
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.AssemblyInfo.cs
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.csproj.CoreCompileInputs.cache
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.dll
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\refint\Management.dll
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.pdb
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\Management.genruntimeconfig.cache
+D:\Programs\dotnet programs\Management\obj\Debug\net7.0\ref\Management.dll

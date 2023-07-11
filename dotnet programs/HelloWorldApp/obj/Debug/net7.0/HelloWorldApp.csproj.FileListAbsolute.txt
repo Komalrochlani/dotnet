@@ -1,0 +1,15 @@
+D:\Programs\dotnet programs\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.exe
+D:\Programs\dotnet programs\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.deps.json
+D:\Programs\dotnet programs\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.runtimeconfig.json
+D:\Programs\dotnet programs\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.dll
+D:\Programs\dotnet programs\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.pdb
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.AssemblyReference.cache
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.dll
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\refint\HelloWorldApp.dll
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.pdb
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.genruntimeconfig.cache
+D:\Programs\dotnet programs\HelloWorldApp\obj\Debug\net7.0\ref\HelloWorldApp.dll
